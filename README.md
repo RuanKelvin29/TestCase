@@ -1,1 +1,1 @@
-TestCase of OderingFoodApp.
+TestCase of FoodOrderingApp.
